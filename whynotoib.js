@@ -36,7 +36,7 @@
   <p>为什么不试试用你的浏览器（而不是微信）访问这里呢？</p>
   <p>点击右上角的三个点，然后选择“在浏览器中打开”。</p>
   <p>这能更好地保护你的隐私，也许还能更好地保护互联网。</p>
-  <p>[<a href="//librehs.github.io/whynotoib/">为什么?</a>] [<a id="hideOIBRegBox" class="grey">立即隐藏</a>] <br />
+  <p>[<a href="//oib.outv.im/">为什么?</a>] [<a id="hideOIBRegBox" class="grey">立即隐藏</a>] <br />
   <span class="grey">（我们会在显示7秒后自动隐藏。）</span></p>
 </div>
 `
